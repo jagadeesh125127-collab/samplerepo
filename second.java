@@ -1,6 +1,6 @@
 public class second {
     public static void main(String[] args){
         System.out.println("Second");
-        System.out.println("second from GitHub");
+        System.out.println("second  GitHub");
     }
 }
